@@ -39,7 +39,8 @@ Python CLI prototype for surfacing early competitive signals from public develop
 ## Technical interests
 
 - Applied AI and NLP research
-- Model evaluation and interpretability
+- AI ethics
+- Model evaluation, interpretability, and explainability
 - Research engineering and reproducible experiments
 - Robotics software and controls
 - C++ algorithms and problem solving
