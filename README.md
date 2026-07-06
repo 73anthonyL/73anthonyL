@@ -11,7 +11,3 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 - Robotics software and controls
 - C++ algorithms and problem solving
 - Python tooling and automation
-
-## Notes
-
-Some repositories are research archives or learning records rather than packaged software products.
