@@ -1,6 +1,6 @@
 # Anthony Lu
 
-EECS student @ UC Berkeley building applied AI research projects, robotics software, and developer tools.
+EECS student @ UC Berkeley building applied AI research projects, robotics software, developer tools, and the future of medicine.
 
 ## Technical interests
 
@@ -9,5 +9,6 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 - Model evaluation, interpretability, and explainability
 - Research engineering and reproducible experiments
 - Robotics software and controls
-- C++ algorithms and problem solving
+- Algorithms, data structures, and problem solving
 - Python tooling and automation
+- Healthcare and medicine
