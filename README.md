@@ -9,6 +9,6 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 - Model evaluation, interpretability, and explainability
 - Research engineering and reproducible experiments
 - Robotics software and controls
-- Algorithms, data structures, and problem solving
+- Algorithms, data structures, problem solving, and mathematics
 - Python tooling and automation
 - Healthcare and medicine
