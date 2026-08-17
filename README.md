@@ -4,6 +4,7 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 
 ## Technical interests
 
+- Healthcare and medicine
 - Applied AI and NLP research
 - AI ethics
 - Model evaluation, interpretability, and explainability
@@ -11,4 +12,3 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 - Robotics software and controls
 - Algorithms, data structures, problem solving, and mathematics
 - Python tooling and automation
-- Healthcare and medicine
