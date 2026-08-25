@@ -12,3 +12,4 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 - Robotics software and controls
 - Algorithms, data structures, problem solving, and mathematics
 - Python tooling and automation
+- Human-Computer Interaction
