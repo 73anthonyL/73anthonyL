@@ -9,7 +9,7 @@ EECS student @ UC Berkeley building applied AI research projects, robotics softw
 - AI ethics
 - Model evaluation, interpretability, and explainability
 - Research engineering and reproducible experiments
-- Robotics software and controls
+- Robotics software and controls engineering
 - Algorithms, data structures, problem solving, and mathematics
 - Python tooling and automation
 - Human-Computer Interaction
